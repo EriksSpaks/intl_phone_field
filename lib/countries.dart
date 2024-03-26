@@ -1543,7 +1543,9 @@ const List<Country> countries = [
       "ro": "Columbia",
       "ar": "كولومبيا",
       "fa": "کلمبیا",
-      "yue": "哥倫比亞"
+      "yue": "哥倫比亞",
+      "ru": "Колумбия",
+      "lv": "Kolumbija"
     },
     flag: "🇨🇴",
     code: "CO",
