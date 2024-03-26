@@ -58,7 +58,7 @@ const List<Country> countries = [
       "ro": "Insulele Åland",
       "ar": "جزر أولاند",
       "fa": "جزیره اولاند",
-      "yue": "奧蘭群島",
+      "yue": "奧蘭群島",,,
       "ru": "Аландские острова",
       "lv": "Ālandu Salas"
     },
