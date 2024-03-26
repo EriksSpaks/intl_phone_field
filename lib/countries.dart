@@ -3092,7 +3092,7 @@ const List<Country> countries = [
       "ro": "Insula Heard și Insulele McDonald",
       "ar": "جزيرة هيرد وجزر ماكدونالد",
       "fa": "جزیره هرد و جزایر مک‌دونالد",
-      "yue": "赫德岛同麦克唐纳群岛"
+      "yue": "赫德岛同麦克唐纳群岛",
       "ru": "Остров Херд и острова Макдональд",
       "lv": "Hērda Sala un Makdonalda Salas"
     },
