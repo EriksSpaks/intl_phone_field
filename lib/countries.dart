@@ -819,7 +819,7 @@ const List<Country> countries = [
       "fa": "برمودا",
       "yue": "百慕大",
       "ru": "Бермуды",
-      "lv": "Bermudu salas"
+      "lv": "Bermudu Salas"
     },
     flag: "🇧🇲",
     code: "BM",
@@ -1576,7 +1576,7 @@ const List<Country> countries = [
       "fa": "جزیره کومور",
       "yue": "科摩羅",
       "ru": "Коморы",
-      "lv": "Komoru salas"
+      "lv": "Komoru Salas"
     },
     flag: "🇰🇲",
     code: "KM",
@@ -7879,7 +7879,7 @@ const List<Country> countries = [
       "fa": "جزایر ویرجین ایالات متحده آمریکا",
       "yue": "維爾京群島（美國）",
       "ru": "Американские Виргинские Острова",
-      "lv": "Amerikas Virdžīnu salas"
+      "lv": "Amerikas Virdžīnu Salas"
     },
     flag: "🇻🇮",
     code: "VI",
